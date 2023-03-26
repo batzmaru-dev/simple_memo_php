@@ -34,7 +34,7 @@
                             <img src="../public/images/animal_stand_zou.png" class="w-75 mx-auto p-2" alt="icon"/>
                         </div>
                         <div class="d-flex justify-content-center">
-                            <div class="mt-3 h2">SimpleMemo</div>
+                            <div class="mt-3 h2">BatzmaruMemo</div>
                         </div>
                         <div class="row mt-3">
                             <div class="offset-2 col-8 offset-2">
