@@ -14,3 +14,6 @@
 [26-Mar-2023 16:27:53 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
 [26-Mar-2023 16:27:58 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
 [26-Mar-2023 16:27:58 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[26-Mar-2023 16:33:28 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/resister.php on line 52
+[26-Mar-2023 16:33:43 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[26-Mar-2023 16:33:43 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
