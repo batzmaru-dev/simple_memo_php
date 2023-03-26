@@ -7,7 +7,11 @@
 function getDatabaseConnection() {
     try
     {
-        $database_handler = new PDO('mysql:host=db;dbname=simple_memo;charset=utf8mb4', 'root', 'password');
+        $database_handler = new PDO(
+            'mysql:host=mysql213.phy.lolipop.lan;
+            dbname=LAA1320261-simplememo;
+            charset=utf8mb4', 'LAA1320261', '82268226Aa'
+        );
     }
     catch (PDOException $e)
     {
