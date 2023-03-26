@@ -6,7 +6,7 @@
 body {
     height: 100%;
     margin: 0;
-    background: #d6f5eb;
+    background: #2c2c2c;
 }
 
 /*--ログイン・ユーザー登録--*/
@@ -19,7 +19,12 @@ body {
     width: 35em;
     height: 38em;
 }
-
+@media screen and (max-width:600px) {
+    .login-card-width {
+        width:95%;
+        min-width: 100px;
+    }
+}
 .border-gray {
     border-color: rgba(0,0,0,.180);
 }
