@@ -1,6 +1,12 @@
 <?php
     session_start();
 
+    // ログインしていたらメモ画面へ変遷
+    require '../common/auth.php';
+    if(isLogin()) {
+        header('Location: ../memo/');
+        exit;
+    }   
 
 ?>
 <!DOCTYPE html> 
