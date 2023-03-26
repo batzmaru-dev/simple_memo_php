@@ -8,3 +8,9 @@
 [26-Mar-2023 13:47:14 Asia/Tokyo] PHP Notice:  Undefined index: user_name in /var/www/html/user/action/resister.php on line 7
 [26-Mar-2023 13:47:14 Asia/Tokyo] PHP Notice:  Undefined index: user_email in /var/www/html/user/action/resister.php on line 8
 [26-Mar-2023 13:47:14 Asia/Tokyo] PHP Notice:  Undefined index: user_password in /var/www/html/user/action/resister.php on line 9
+[26-Mar-2023 16:27:49 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[26-Mar-2023 16:27:49 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[26-Mar-2023 16:27:53 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[26-Mar-2023 16:27:53 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[26-Mar-2023 16:27:58 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[26-Mar-2023 16:27:58 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
